@@ -5,4 +5,5 @@
 3. [从尾到头打印链表](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/printListFromTailToHead.java)
 4. [重建二叉树](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/reConstructBinaryTree.java)
 5. [用两个栈实现队列](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/queueToStack.java)
+6. [旋转数组的最小数字](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/minNumberInRotateArray.java)
 
