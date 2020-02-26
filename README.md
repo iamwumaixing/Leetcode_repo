@@ -10,7 +10,9 @@
 6. [旋转数组的最小数字](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/minNumberInRotateArray.java)
 7. [斐波那契数列](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/fibonacci.java)
 8. [跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloor.java)
-8. [变态跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloorII.java)
+9. [变态跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloorII.java)
+10. [矩形覆盖](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/rectCover.java)
+
 
 
 
