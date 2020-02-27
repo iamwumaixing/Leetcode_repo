@@ -13,6 +13,9 @@
 9. [变态跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloorII.java)
 10. [矩形覆盖](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/rectCover.java)
 
+11. [二进制中1的个数](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/numberOf1.java)
+
+
 
 
 
