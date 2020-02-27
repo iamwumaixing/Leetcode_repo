@@ -14,6 +14,8 @@
 10. [矩形覆盖](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/rectCover.java)
 
 11. [二进制中1的个数](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/numberOf1.java)
+11. [数值的整数次方](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/power.java)
+
 
 
 
