@@ -14,7 +14,10 @@
 10. [矩形覆盖](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/rectCover.java)
 
 11. [二进制中1的个数](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/numberOf1.java)
-11. [数值的整数次方](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/power.java)
+12. [数值的整数次方](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/power.java)
+13. [调整数组顺序使奇数位于偶数前面](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/reOrderArray.java)
+14. [链表中倒数第K个结点](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/findKthToTail.java)
+
 
 
 
