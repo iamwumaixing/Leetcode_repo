@@ -12,14 +12,12 @@
 8. [跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloor.java)
 9. [变态跳台阶](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/jumpFloorII.java)
 10. [矩形覆盖](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/rectCover.java)
-
 11. [二进制中1的个数](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/numberOf1.java)
 12. [数值的整数次方](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/power.java)
 13. [调整数组顺序使奇数位于偶数前面](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/reOrderArray.java)
 14. [链表中倒数第K个结点](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/findKthToTail.java)
 15. [反转链表](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/reverseList.java)
-
-
+16. [合并两个排序的链表](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/merge.java)
 
 
 
