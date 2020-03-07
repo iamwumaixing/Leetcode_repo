@@ -22,9 +22,3 @@
 18. [二叉树的镜像](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/mirror.java)
 19. [包含min函数的栈](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/minStack.java)
 20. [栈的压入、弹出序列](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/isPopOrder.java)
-
-
-
-
-
-
