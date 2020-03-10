@@ -1,6 +1,6 @@
 ## LeetCode刷题记录，方便回顾
 
-之前做的题都没记录下来，要找的时候找不着。所以这里记录一些做过的题
+2020.2.25 从今天开始记录一些做过的题
 
 1.  [二维数组中的查找](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/Find.java)
 2.  [替换空格](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/replaceSpace.java)
