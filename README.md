@@ -25,3 +25,5 @@
 21. [从上往下打印二叉树](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/printFromTopToBottom.java)
 22. [二叉搜索树的后序遍历序列](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/verifySquenceOfBST.java)
 23. [删除链表中重复的结点](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/deleteDuplication.java)
+24. [数组中重复的数字](https://github.com/iamwumaixing/Leetcode_repo/blob/master/code/duplicate.java)
+
